@@ -1,0 +1,5 @@
+dist/
+test/
+karma.conf.js
+Gruntfile.js
+service-worker.js
