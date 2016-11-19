@@ -1,9 +1,8 @@
 {
-  "name": "jkpgif",
+  "name": "your-first-pwapp-grunt-browserify-less",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "author": "",
+  "author": "farhax",
   "license": "ISC",
   "scripts": {
     "build": "grunt",
