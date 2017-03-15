@@ -3,6 +3,9 @@
 Based of http://g.co/codelabs/pwa
 This can be used for starting with progressive web apps
 
+### Next Goal
+Update for webpack
+
 ### Setup
 ```npm install```
 
